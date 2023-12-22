@@ -177,7 +177,7 @@
   },
   "cincinnati-oh": {
     "Name": "Cincinnati, OH",
-    "Percentage": "22%",
+    "Percentage": "21%",
     "cityType": "core city",
     "Population": "309,317",
     "urbanizedAreaPopulation": "1,686,744",
@@ -275,7 +275,7 @@
   },
   "detroit-mi": {
     "Name": "Detroit, MI",
-    "Percentage": "30%",
+    "Percentage": "31%",
     "cityType": "core city",
     "Population": "639,614",
     "urbanizedAreaPopulation": "3,776,890",
@@ -706,7 +706,7 @@
   },
   "pittsburgh-pa": {
     "Name": "Pittsburgh, PA",
-    "Percentage": "15%",
+    "Percentage": "16%",
     "cityType": "core city",
     "Population": "302,971",
     "urbanizedAreaPopulation": "1,745,039",
@@ -774,7 +774,7 @@
   },
   "sacramento-ca": {
     "Name": "Sacramento, CA",
-    "Percentage": "13%",
+    "Percentage": "16%",
     "cityType": "core city",
     "Population": "522,754",
     "urbanizedAreaPopulation": "1,946,618",
@@ -784,7 +784,7 @@
   },
   "saint-louis-mo": {
     "Name": "Saint Louis, MO",
-    "Percentage": "25%",
+    "Percentage": "27%",
     "cityType": "core city",
     "Population": "301,578",
     "urbanizedAreaPopulation": "2,156,323",
